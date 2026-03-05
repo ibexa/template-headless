@@ -1,0 +1,1 @@
+module.exports = [".\/vendor\/ibexa\/connector-ai\/src\/bundle\/Resources\/encore\/ibexa.richtext.config.manager.js"];
